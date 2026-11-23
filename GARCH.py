@@ -71,3 +71,24 @@ ks = np.arange(n)
 plt.plot(ks, gammas)
 plt.plot(ks, gammas_z)
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
